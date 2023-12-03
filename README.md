@@ -14,7 +14,7 @@
 - Give following command to run:
   ``` npm start ```
 ## View doccumentation from postman:
-https://www.postman.com/galactic-moon-914009/workspace/imon-assignment/documentation/31264229-838ffa9f-2502-4250-99f9-3cc16a6dd7e4
+``` https://www.postman.com/galactic-moon-914009/workspace/imon-assignment/documentation/31264229-838ffa9f-2502-4250-99f9-3cc16a6dd7e4 ```
  
 ![Capture JPG1](https://github.com/IkbalHussainImon/Dmoney-Trnx-API-Newman-Collection/assets/152368966/6b6f6bf4-132c-4b45-a757-37552c55df5c)
 
